@@ -2,7 +2,7 @@
 az.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url('img/az.jpg');
+  background-image: url('../img/az.jpg');
   background-position: center center;
   @include background-cover;
   hr {
